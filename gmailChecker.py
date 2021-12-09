@@ -9,7 +9,7 @@ host = 'imap.gmail.com'
 username = 'email'
 password = 'password'
 # download_path
-download_folder = "/home/mrmango/scripts/autoPrint/attachments/"
+download_folder = "attachments_folder"
 class MailCheker():
 
     def __init__(self, quiet=False):
